@@ -1,4 +1,4 @@
-## Hi there 👋
+## 你好，欢迎访问！（Welcome!）👋
 
 <!--
 **kk485/kk485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<hr>
+-->我尝试搭建了一个自己的博客网站，即将上线！
 <hr>
